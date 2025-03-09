@@ -7,4 +7,6 @@
 - 📫 How to reach me: you can dm for me
 - 😄 Hobby : Fishing
 - ⚡ Fun fact: I like sleeping
--->
+
+MATERIAL ARTS
+![WhatsApp Image 2024-11-16 at 10 29 28_6c1ec40d](https://github.com/user-attachments/assets/860e5b6e-fb70-4135-b28b-04aa83e95933)
