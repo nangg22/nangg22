@@ -8,6 +8,6 @@
 - 😄 I'm Hobby Fishing
 - ⚡ Fun fact I like sleeping and Gym
 
-MATERIAL ARTS
+MATERIAL ART'S
 
 ![WhatsApp Image 2024-11-16 at 10 29 28_6c1ec40d](https://github.com/user-attachments/assets/860e5b6e-fb70-4135-b28b-04aa83e95933)
