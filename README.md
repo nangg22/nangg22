@@ -16,7 +16,7 @@
 const aboutMe = {
     nama: "Danang Prajadinata",
     lokasi: "Gresik, Indonesia",
-    role: "Junior Developer",
+    jurusan: "Information System"
     bahasa: "Indonesian", "English",
     hobi: "Coding", "Fishing", "Cooking", "Music",
     quote: "Code is like humor. When you have to explain it, it's bad."
@@ -71,11 +71,11 @@ const aboutMe = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nangg22&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nangg22&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nangg22&theme=radical&hide_border=true)
 
 </div>
 
@@ -85,17 +85,17 @@ const aboutMe = {
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_ANDA&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nangg22&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Matrial Art
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME_GITHUB_ANDA&theme=redical&hide_border=true&custom_title=Contribution%20Graph)
+![WhatsApp Image 2024-11-18 at 21 11 00_1bd3d4d4](https://github.com/user-attachments/assets/1cfcd780-b1f5-45e8-9e3d-78459b2d528a)
 
 </div>
 
@@ -103,7 +103,7 @@ const aboutMe = {
 
 ## 🎯 Current Focus
 
-- 🔭 Sedang mengerjakan: **Website Interaktif**
+- 🔭 Sedang mengerjakan: **Moblie Apps**
 - 🌱 Sedang belajar: **React Native & DevOps**
 - 👯 Ingin berkolaborasi: **Open Source Projects**
 - 💬 Tanya saya tentang: **Web Development, UI/UX Design**
@@ -122,9 +122,9 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_ANDA&repo=NAMA_REPO_1&theme=radical&hide_border=true)](https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=nangg22&repo=README.md1&theme=radical&hide_border=true)](https://github.com/nangg22/README.md1)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_ANDA&repo=NAMA_REPO_2&theme=radical&hide_border=true)](https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=nangg22&repo=README.md2&theme=radical&hide_border=true)](https://github.com/nangg22/README.md2)
 
 </div>
 
@@ -178,9 +178,9 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-**⭐ From [USERNAME_GITHUB_ANDA](https://github.com/USERNAME_GITHUB_ANDA)**
+**⭐ From [nangg22](https://github.com/nangg22)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_ANDA&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=nangg22&color=brightgreen&style=flat-square&label=Profile+Views)
 
 *"The best way to predict the future is to implement it"* 💻
 
