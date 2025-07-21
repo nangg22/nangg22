@@ -159,8 +159,8 @@ const aboutMe = {
 ```text
 JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░   50.2% 
 TypeScript   5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░   23.1% 
-CSS          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░   13.4% 
-HTML         2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░    9.1% 
+HTML         3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░   13.4% 
+CSS          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░    9.1% 
 Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░    4.2%
 ```
 
@@ -170,7 +170,7 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nangg22/nangg22/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
