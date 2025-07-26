@@ -104,9 +104,9 @@ const aboutMe = {
 ## 🎯 Current Focus
 
 - 🔭 Sedang mengerjakan: **Moblie Apps**
-- 🌱 Sedang belajar: **React Native & DevOps**
+- 🌱 Sedang belajar: **React Native & Laravel**
 - 👯 Ingin berkolaborasi: **Open Source Projects**
-- 💬 Tanya saya tentang: **Web Development, UI/UX Design**
+- 💬 Tanya saya tentang: **Semua hal tentang code**
 - ⚡ Fun fact: **Saya bisa coding sambil minum kopi ☕**
 
 ---
