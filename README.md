@@ -109,6 +109,7 @@ const aboutMe = {
 - 🔭 Sedang mengerjakan: **Web Merch**
 - 🌱 Sedang belajar: **Typescript & Laravel**
 - 👯 Ingin berkolaborasi: **Open Source Projects**
+- 🧠 I’m passionate about backend, frontend, and mobile development
 - 💬 Tanya saya tentang: **Semua hal tentang code**
 - ⚡ Fun fact: **Saya bisa coding sambil minum kopi ☕**
 
