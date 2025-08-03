@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 👋 Halo, Saya JAJANG NEON!
+# 👋 Halo, Saya DANANG PRAJADINATA!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Material+Art's;Always+Learning+New+Things;Love+to+Code+%26+Create!" alt="Typing SVG" />
 
