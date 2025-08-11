@@ -163,7 +163,7 @@ const aboutMe = {
 ```text
 TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░   50.2%
 HTML         5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░   23.1%
-JavaScript   3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Java         3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░   13.4% 
 Phython      2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░    9.1%
 Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░    4.2%
 ```
