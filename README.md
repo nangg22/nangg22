@@ -17,11 +17,11 @@
 
 ```javascript
 const aboutMe = {
-    nama: "Danang Prajadinata",
-    lokasi: "Gresik, Indonesia",
-    jurusan: "Information System",
-    bahasa: "Indonesian", "English",
-    hobi: "Coding, Fishing, Cooking, Music",
+    name: "Danang Prajadinata",
+    location: "Gresik, Indonesia",
+    major: "Information System",
+    language: "Indonesian", "English",
+    hobby: "Coding, Fishing, Cooking, Music",
     quote: "Code is like humor. When you have to explain it, it's bad."
 };
 ```
