@@ -172,16 +172,6 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/nangg22/nangg22/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
 **⭐ From [nangg22](https://github.com/nangg22)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nangg22&color=brightgreen&style=flat-square&label=Profile+Views)
