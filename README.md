@@ -115,13 +115,6 @@ const aboutMe = {
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🎨 Featured Projects
 
 <div align="center">
