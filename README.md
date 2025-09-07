@@ -115,18 +115,6 @@ const aboutMe = {
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=nangg22&repo=README.md1&theme=radical&hide_border=true)](https://github.com/nangg22/README.md1)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=nangg22&repo=README.md2&theme=radical&hide_border=true)](https://github.com/nangg22/README.md2)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
