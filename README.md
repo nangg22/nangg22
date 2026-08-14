@@ -1,161 +1,361 @@
-
 <div align="center">
-  
-# 👋 Halo, I'am DANANG PRAJADINATA!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Material+Art's;Always+Learning+New+Things;Love+to+Code+%26+Create!" alt="Typing SVG" />
+# 👋 Hi, I'm **Danang Prajadinata**
+
+### `Information Systems Student` • `Full-Stack Developer` • `UI/UX Enthusiast`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Ideas+into+Digital+Products;Full-Stack+Web+Developer;Learning+Something+New+Every+Day;Turning+Problems+into+Solutions;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/nangg22">
+    <img src="https://img.shields.io/github/followers/nangg22?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/nangg22?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-36BCF7?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://nanggporto.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" />
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="Coding Animation"/>
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
-</p>
-
 ---
-## 🚀 About Me
+
+## 🧑‍💻 About Me
+
+I'm **Danang Prajadinata**, an Information Systems student from Indonesia who enjoys turning ideas and real-world problems into useful digital solutions.
+
+I'm currently focused on improving my skills in **full-stack web development, backend systems, databases, UI/UX, and software engineering practices**.
+
+I don't just want to write code — I want to understand **why the system is built, how it works, and how it can be improved.**
 
 ```javascript
-const aboutMe = {
+const danang = {
     name: "Danang Prajadinata",
-    location: "Gresik, Indonesia",
-    major: "Information System",
-    language: "Indonesian", "English",
-    hobby: "Coding, Fishing, Cooking, Music",
-    quote: "Code is like humor. When you have to explain it, it's bad."
+    role: "Information Systems Student",
+    location: "Indonesia 🇮🇩",
+
+    interests: [
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Database & System Design",
+        "UI/UX Design",
+        "Software Engineering"
+    ],
+
+    currentlyLearning: [
+        "TypeScript",
+        "Next.js",
+        "Backend Development",
+        "SQL & Database Design",
+        "Laravel"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Fishing 🎣",
+        "Cooking 🍳",
+        "Music 🎵",
+        "Martial Arts 🥋"
+    ],
+
+    mindset: "Learn → Build → Break → Fix → Improve"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 What I'm Working On
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Web Merch
+
+A web-based marketplace project focused on building a practical e-commerce experience.
+
+**Focus:**
+
+* Product management
+* User experience
+* Database integration
+* CRUD operations
+* Responsive web development
+
+</td>
+
+<td width="50%">
+
+### 🎓 Scholarship Platform
+
+A concept for an AI-powered scholarship preparation platform designed to help students discover opportunities and prepare for selection processes.
+
+**Focus:**
+
+* AI-assisted preparation
+* Scholarship discovery
+* Essay evaluation
+* Interview simulation
+* Mentoring
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
+</p>
 
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🗄️ Database & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" />
+</p>
+
+### 🔧 Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma,vercel" />
+</p>
+
+---
+
+## 🧩 Development Skills
+
+```text
+Frontend Development        █████████████████░░░   React • Next.js • TypeScript
+Backend Development         ███████████████░░░░░   Node.js • Express • Laravel
+Database & SQL              ████████████████░░░░   MySQL • PostgreSQL
+UI/UX Design                █████████████░░░░░░░   Figma • Responsive Design
+API Development             ██████████████░░░░░░   REST API • CRUD
+Version Control             █████████████████░░░   Git • GitHub
+Problem Solving             ██████████████████░░   Debugging • System Thinking
+```
+
+> **My goal:** become a developer who can understand a problem, design the solution, build the system, and continuously improve it.
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/nangg22">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nangg22&repo=marketplace&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+### 🔥 Projects I'm Proud Of
+
+| Project                     | Description                                           | Technologies                      |
+| --------------------------- | ----------------------------------------------------- | --------------------------------- |
+| 🛒 **Marketplace**          | Web marketplace with product and user management      | Next.js • TypeScript • SQL        |
+| 📦 **DanStock Inventory**   | Inventory management system                           | Python • SQLite • Web             |
+| 🎓 **Scholarship Platform** | Scholarship preparation & mentoring platform          | Next.js • AI • Supabase           |
+| 🚨 **Disaster Logistics**   | Decision-support system for disaster aid distribution | Web • Database • Decision Support |
+
+> More projects are continuously being built and improved.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nangg22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nangg22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nangg22&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nangg22&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nangg22&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nangg22&theme=radical&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=nangg22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 My Development Journey
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nangg22&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔥 Matrial Art
-
-<div align="center">
-  
-![WhatsApp Image 2024-11-18 at 21 11 00_1bd3d4d4](https://github.com/user-attachments/assets/1cfcd780-b1f5-45e8-9e3d-78459b2d528a)
-
-</div>
+```text
+2024
+ │
+ ├── 🌱 Started exploring programming
+ ├── 💻 Learned programming fundamentals
+ └── 🎨 Started UI/UX & web development
+ │
+ ▼
+2025
+ │
+ ├── ⚛️ React & Next.js
+ ├── 🗄️ SQL & Database
+ ├── 🔌 API & Backend Development
+ ├── 🚀 Deployment & GitHub
+ └── 🧩 Started building real-world projects
+ │
+ ▼
+2026
+ │
+ ├── 🧠 Improving Software Engineering
+ ├── 🔐 Learning better system architecture
+ ├── 🤖 Exploring AI-assisted development
+ ├── 💼 Preparing for Internship
+ └── 🌎 Building toward a professional developer career
+ │
+ ▼
+NEXT
+ │
+ └── 🚀 Become a Professional Software Engineer
+```
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Sedang mengerjakan: **Web Merch**
-- 🌱 Sedang belajar: **Typescript & Laravel**
-- 👯 Ingin berkolaborasi: **Open Source Projects**
-- 🧠 **I’m passionate about backend, frontend, and mobile development**
-- 💬 Tanya saya tentang: **Semua hal tentang code**
-- ⚡ Fun fact: **Saya bisa coding sambil minum kopi ☕**
+<table>
+<tr>
+<td>
+
+### 🔭 Building
+
+Real-world web applications and portfolio projects.
+
+</td>
+<td>
+
+### 🌱 Learning
+
+TypeScript, Next.js, SQL, Backend & Software Engineering.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧠 Improving
+
+Problem solving, system design, clean code & debugging.
+
+</td>
+<td>
+
+### 🤝 Looking For
+
+Internship opportunities, collaborations & open-source projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## 🥋 Beyond Coding
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danang-prajadinata-89ab84354/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nanggxd7)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nangg.arpk21/?hl=en)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://nanggporto.netlify.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpraja620@gmail.com)
+<img src="https://github.com/user-attachments/assets/1cfcd780-b1f5-45e8-9e3d-78459b2d528a" width="500" alt="Martial Arts"/>
+
+### Discipline outside the screen → Discipline inside the code.
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 🌐 Let's Connect
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.linkedin.com/in/danang-prajadinata-89ab84354/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Nanggxd7">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nangg.arpk21/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://nanggporto.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="mailto:dpraja620@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 💡 Developer Philosophy
 
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░   50.2%
-Javasript    5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░   23.1%
-CSS          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Phython      2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░    9.1%
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░    4.2%
-```
+<div align="center">
+
+> ### "Don't just make it work. Understand why it works."
+
+**Learn something. Build something.
+Break something. Fix something.
+Repeat.**
+
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ From [nangg22](https://github.com/nangg22)**
+### 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=nangg22&color=brightgreen&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=nangg22&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
 
-*"The best way to predict the future is to implement it"* 💻
+<br><br>
+
+**Thanks for visiting my profile! 🚀**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+<br>
+
+<sub>Built with ☕ + 💻 + curiosity by <b>Danang Prajadinata</b></sub>
 
 </div>
